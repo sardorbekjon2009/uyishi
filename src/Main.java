@@ -11,7 +11,7 @@ public class Main {
         sonlarSeti.add(40);
         sonlarSeti.add(30);
 
-        System.out.println("Unikal sonlar:");
+        System.out.println("Uyga topshiriqlar");
         for (int son : sonlarSeti) {
             System.out.println(son);
         }
